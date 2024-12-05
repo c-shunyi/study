@@ -20,7 +20,7 @@ log(a)
 // 传入two，不报错
 const b: two = { name: 'tom', id: 1 }
 log(b)
-// 传入无限定，不报错
+// 传入无限定，不报错dd
 const c = { name: 'lucy' }  
 log(c)
 const d = { name: 'lucy', id: 2 }
